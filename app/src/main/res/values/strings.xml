@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App21 Login Social</string>
+
+    <string name="facebook_app_id">1689607925920424</string>
+
+    <string name="fb_login_protocol_scheme">fb1689607925920424</string>
+
+    <string name="facebook_client_token">17eb6fc88b2a5dc41f31b13a15a8709b</string>
+</resources>
